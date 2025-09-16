@@ -1,6 +1,7 @@
 ---
 title: "Updates from the Gulf Center for Sea Turtle Research"
 collection: talks
+category: presentation
 type: "Volunteer Presenter"
 permalink: /talks/SeaTurtleSaturday2025
 venue: "Moody Gardens"
