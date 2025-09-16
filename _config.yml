@@ -86,14 +86,6 @@ publication_category:
   reports:
     title: 'Reports'
 
-talk_category:
-  presentations:
-    title: 'Presentations'    
-  workshops:
-    title: 'Workshops' 
-  posters:
-    title: 'Posters'
-
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
