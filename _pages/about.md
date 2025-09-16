@@ -1,35 +1,53 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My research focuses on the movement ecology of marine megafauna using satellite and acoustic telemetry. I use satellite and acoustic telemetry data with the goals of investigating migratory patterns, identifying habitats, and providing data for effective regional management.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+2022-present<br/>
+PhD Candidate at Texas A&M University at Galveston, Department of Marine Biology
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+🎓 2020-2021<br/>
+MSc with Distinction in Freshwater and Marine Ecology<br/>
+Queen Mary, University of London
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+🎓 2014-2018<br/>
+BA in Biology and French Language & Literature<br/>
+State University of New York at Geneseo<br/>
+Fall 2017<br/>
+Univerité Paul Valéry III in Montpellier France<br/>
+Semester abroad credits towards BA<br/>
 
-Getting started
+
+Relevant Work Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+📍 Tallahassee, FL<br/>
+March 2022 - December 2022<br/>
+As a ***Biologist III*** with **Florida Fish and Wildlife Commission**, I worked on the envionmental commenting team to mitigate the impact of artificial coastal lighting on sandy nesting habitats, particularly for sea turtles. In this position, I worked with stakeholders during construction to ensure projects would be in compliance with Florida state guidelines, assess lighting fixtures, and confirm proposed wavelengths of all outdoor lights.
+
+📍 Elma, NY<br/>
+November 2021 - March 2022<br/>
+While applying to jobs after receiving my MSc, I spent part of the academic year back in the classroom, this time as a ***long-term substitute teacher*** at **Iroquois Middle School** where I taught middle school French and Family and Consumer Science.
+
+📍 Périgueux, France<br/>
+October 2019 - May 2020<br/>
+Working as an ***English Language and Culture Assistant*** with the **Teaching Assistant Program in France**, I worked in 19 classrooms across 3 primary schools to teach students about the English language and American culture. Living once again with a host family to immerse myself in the language and culture, my French speaking, comprehension, reading, and writing skills saw drastic improvements.
+
+📍 Sarasota, FL<br/>
+May - August 2019<br/>
+As an ***intern*** with **Mote Marine Laboratory and Aquarium**'s Sea Turtle Research and Conservation Program allowed me to find my passion for coastal habitats and marine megafauna. Daily field work despite inclement weather, weekly audits of paper records, and a team of staff, interns, and volunteers gave me invaluble experience that made it clear that I wanted to continue working in this field.
+
+📍 Grand Island, NY<br/>
+May 2018 - May 2019<br/>
+As a ***Microbiology QC Tecnician*** at **Fresenius Kabi, USA**, I worked as part of an interconnected team of analytical and environmental microbiologists to ensure all samples were tested, observed, and recorded in a timely fashion. I gained skills and experience in spore testing, sterility testing, BET testing, aseptic technique, and thorough documentation and record-keeping.
+
 
 Site-wide configuration
 ------
