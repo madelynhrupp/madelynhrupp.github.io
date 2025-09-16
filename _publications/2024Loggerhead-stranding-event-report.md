@@ -3,7 +3,7 @@ title: "Loggerhead Turtle (Caretta caretta) Mass Mortality Event in the Western 
 collection: publications
 category: reports
 permalink: /publication/2024Loggerhead-stranding-event-report
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper serves as a report of the loggerhead stranding event in the Western Gulf of Mexico 2022'
 date: 2024-05-01
 venue: 'NOAA Technical Memorandum'
 citation: 'Stacy BA*, D Shaver, H Wilson, M Villalba-Guerra, K
