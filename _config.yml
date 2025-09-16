@@ -87,10 +87,12 @@ publication_category:
     title: 'Reports'
 
 talk_category:
-  talks:
-    title: 'Talks'    
+  presentations:
+    title: 'Presentations'    
   workshops:
-    title: 'Workshops'
+    title: 'Workshops' 
+  posters:
+    title: 'Posters'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
