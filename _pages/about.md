@@ -14,7 +14,7 @@ Education
 2022-present<br/>
 PhD Candidate at Texas A&M University at Galveston, Department of Marine Biology
 
-🎓 2020-2021<br/>
+:graduation-cap: 2020-2021<br/>
 MSc with Distinction in Freshwater and Marine Ecology<br/>
 Queen Mary, University of London
 
