@@ -6,7 +6,7 @@ permalink: /publication/2024Loggerhead-stranding-event-report
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-01
 venue: 'NOAA Technical Memorandum'
-paperurl: 'paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=Loggerhead+Turtle+%28Caretta+caretta%29+Mass+Mortality+Event+in+the+Western+Gulf+of+Mexico+in+2022&btnG=)''
+paperurl: 'paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=Loggerhead+Turtle+%28Caretta+caretta%29+Mass+Mortality+Event+in+the+Western+Gulf+of+Mexico+in+2022&btnG=)'
 citation: 'Stacy BA*, D Shaver, H Wilson, M Villalba-Guerra, K
 Potter, JS Walker, S Whitaker, A Orgill, C Ullmer, J Gilbert, J Sefcik, L Howell, R Hardy, CD Marshall, ***M Rupp***, E Bevan, M Cook, T Tristan, A Terry, J Flanagan, K Bauer, A Krauss, C Macon, F MartinezAndrade, A Walker, J Abbott, K Subramaniam, N Stacy, A Bonka, T DeSerisy, JJ Heatley, and M Skoruppa. 2024. Loggerhead Turtle'
 ---
