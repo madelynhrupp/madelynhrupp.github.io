@@ -10,12 +10,7 @@ location: "Galveston, TX, USA"
 
 As the sole TA for the MARB 425 Laboratory component for undergraduates for a total of ~50 students, I was responsible for uploading course content, grading all assignments, quizzes, reports, and exams, coordinating and supervising field work, purchasing supplies, and supporting students in and out of the lab.
 
-Heading 1
+Field labs
 ======
 ![Recruitment 1 photo](/assets/rec1F2025.JPG)
-
-Heading 2
-======
-
-Heading 3
-======
+Students building recruitment structures to deploy in TAMUG's boat basin
