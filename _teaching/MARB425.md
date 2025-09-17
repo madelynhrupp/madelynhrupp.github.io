@@ -12,7 +12,7 @@ As the sole TA for the MARB 425 Laboratory component for undergraduates for a to
 
 Heading 1
 ======
-![Recruitment 1 photo](/assets/rec1F2025.png)
+![Recruitment 1 photo]/assets/rec1F2025.png
 
 Heading 2
 ======
