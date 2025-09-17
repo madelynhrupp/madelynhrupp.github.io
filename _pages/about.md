@@ -18,7 +18,9 @@ PhD Candidate at Texas A&M University at Galveston, Department of Marine Biology
 MSc with Distinction in Freshwater and Marine Ecology<br/>
 Queen Mary, University of London
 
-🎓 2014-2018<br/>
+🎓 
+{{< fa graduation-cap >}}
+2014-2018<br/>
 BA in Biology and French Language & Literature<br/>
 State University of New York at Geneseo<br/>
 Fall 2017<br/>
