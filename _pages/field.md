@@ -1,9 +1,8 @@
 ---
-permalink: /field
+layout: archive
 title: "Field"
+permalink: /field/
 author_profile: true
-redirect_from:
-  - /field.html
 ---
 
 Lab
