@@ -20,6 +20,7 @@ Queen Mary, University of London
 
 🎓 
 < fa graduation-cap >
+$fa-var-mortar-board
 2014-2018<br/>
 BA in Biology and French Language & Literature<br/>
 State University of New York at Geneseo<br/>
