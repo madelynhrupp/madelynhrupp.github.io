@@ -19,7 +19,7 @@ MSc with Distinction in Freshwater and Marine Ecology<br/>
 Queen Mary, University of London
 
 🎓 
-{{< fa graduation-cap >}}
+< fa graduation-cap >
 2014-2018<br/>
 BA in Biology and French Language & Literature<br/>
 State University of New York at Geneseo<br/>
