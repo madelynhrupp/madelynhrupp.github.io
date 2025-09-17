@@ -1,14 +1,13 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant: Marine Ecology (MARB 425)"
 collection: teaching
-type: "Marine Ecology (MARB 425)"
+type: "Fall 2024, Spring 2025, Fall 2025"
 permalink: /teaching/MARB425
 venue: "Texas A&M University at Galveston, Department of Marine Biology"
 date: 2024-08-19
 location: "Galveston, TX, USA"
 ---
 
-Fall 2024, Spring 2025, Fall 2025
 As the sole TA for the MARB 425 Laboratory component for undergraduates for a total of ~50 students, I was responsible for uploading course content, grading all assignments, quizzes, reports, and exams, coordinating and supervising field work, purchasing supplies, and supporting students in and out of the lab.
 
 Heading 1
