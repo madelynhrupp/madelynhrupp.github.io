@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Field"
 author_profile: true
 redirect_from: 
   - /field/
