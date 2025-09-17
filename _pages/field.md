@@ -7,12 +7,7 @@ redirect_from:
   - /field.html
 ---
 
-Education
+Lab
 ======
-2022-present<br/>
-PhD Candidate at Texas A&M University at Galveston, Department of Marine Biology
-
-:graduation-cap: 2020-2021<br/>
-MSc with Distinction in Freshwater and Marine Ecology<br/>
-Queen Mary, University of London
+![Recruitment 1 photo](/assets/rec1F2025.JPG)
 
