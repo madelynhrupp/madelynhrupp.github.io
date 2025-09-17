@@ -1,9 +1,8 @@
 ---
-permalink: /
+permalink: /field
 title: "Field"
 author_profile: true
-redirect_from: 
-  - /field/
+redirect_from:
   - /field.html
 ---
 
