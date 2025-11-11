@@ -8,7 +8,7 @@ date: 2024-08-19
 location: "Galveston, TX, USA"
 ---
 
-As the sole TA for the MARB 425 Laboratory component for undergraduates for a total of ~50 students, I was responsible for uploading course content, grading all assignments, quizzes, reports, and exams, coordinating and supervising field work, purchasing supplies, and supporting students in and out of the lab.
+During my 3 semesters as a TA for the MARB 425 Laboratory component for undergraduates totaling ~50 students per semester, I was responsible for uploading course content, grading all assignments, quizzes, reports, and exams, coordinating and supervising field work, purchasing supplies, and supporting students in and out of the lab.
 
 Field labs
 ======
