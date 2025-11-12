@@ -226,6 +226,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: false
+    permalink: /:collection/:path/
+  sims:
     output: true
     permalink: /:collection/:path/
 
