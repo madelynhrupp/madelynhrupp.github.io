@@ -2,7 +2,7 @@
 title: "Random Sampling Simulator"
 collection: simulations
 type: "Understanding the importance of random sampling in statistics"
-permalink: /sims/
+permalink: /sims/stats-sampling
 date: 2025-11-12
 ---
 
